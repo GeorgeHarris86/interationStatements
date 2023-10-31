@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: InterationStatementsexe3, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>InterationStatementsexe3 -> C:\Users\geoha\repos\InterationStatementsexe3\InterationStatementsexe3\bin\Debug\net6.0\InterationStatementsexe3.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 2:56 PM and took 02.649 seconds ==========

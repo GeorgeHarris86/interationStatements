@@ -1,0 +1,14 @@
+C:\Users\geoha\repos\InterationStatementsexe\InterationStatementsexe\bin\Debug\net6.0\InterationStatementsexe..exe
+C:\Users\geoha\repos\InterationStatementsexe\InterationStatementsexe\bin\Debug\net6.0\InterationStatementsexe..deps.json
+C:\Users\geoha\repos\InterationStatementsexe\InterationStatementsexe\bin\Debug\net6.0\InterationStatementsexe..runtimeconfig.json
+C:\Users\geoha\repos\InterationStatementsexe\InterationStatementsexe\bin\Debug\net6.0\InterationStatementsexe..dll
+C:\Users\geoha\repos\InterationStatementsexe\InterationStatementsexe\bin\Debug\net6.0\InterationStatementsexe..pdb
+C:\Users\geoha\repos\InterationStatementsexe\InterationStatementsexe\obj\Debug\net6.0\InterationStatementsexe..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geoha\repos\InterationStatementsexe\InterationStatementsexe\obj\Debug\net6.0\InterationStatementsexe..AssemblyInfoInputs.cache
+C:\Users\geoha\repos\InterationStatementsexe\InterationStatementsexe\obj\Debug\net6.0\InterationStatementsexe..AssemblyInfo.cs
+C:\Users\geoha\repos\InterationStatementsexe\InterationStatementsexe\obj\Debug\net6.0\InterationStatementsexe..csproj.CoreCompileInputs.cache
+C:\Users\geoha\repos\InterationStatementsexe\InterationStatementsexe\obj\Debug\net6.0\InterationStatementsexe..dll
+C:\Users\geoha\repos\InterationStatementsexe\InterationStatementsexe\obj\Debug\net6.0\refint\InterationStatementsexe..dll
+C:\Users\geoha\repos\InterationStatementsexe\InterationStatementsexe\obj\Debug\net6.0\InterationStatementsexe..pdb
+C:\Users\geoha\repos\InterationStatementsexe\InterationStatementsexe\obj\Debug\net6.0\InterationStatementsexe..genruntimeconfig.cache
+C:\Users\geoha\repos\InterationStatementsexe\InterationStatementsexe\obj\Debug\net6.0\ref\InterationStatementsexe..dll
